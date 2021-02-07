@@ -1,4 +1,4 @@
-# Code Time
+# Code Time .
 
 <p>
   <a href="https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode">
